@@ -1,0 +1,7 @@
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AppCustomKaosBernama\AppCustomKaosBernama\obj\Debug\AppCustomKaosBernama.csprojResolveAssemblyReference.cache
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AppCustomKaosBernama\AppCustomKaosBernama\obj\Debug\AppCustomKaosBernama.MainForm.resources
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AppCustomKaosBernama\AppCustomKaosBernama\obj\Debug\AppCustomKaosBernama.csproj.GenerateResource.Cache
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AppCustomKaosBernama\AppCustomKaosBernama\bin\Debug\AppCustomKaosBernama.exe
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AppCustomKaosBernama\AppCustomKaosBernama\bin\Debug\AppCustomKaosBernama.pdb
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AppCustomKaosBernama\AppCustomKaosBernama\obj\Debug\AppCustomKaosBernama.exe
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AppCustomKaosBernama\AppCustomKaosBernama\obj\Debug\AppCustomKaosBernama.pdb
